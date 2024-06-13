@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Relative_layout_application</string>
+    <string name="homework">Home Work</string>
+    <string name="show">Show Attendance</string>
+    <string name="shows">Show\nAttendance</string>
+    <string name="mark">Mark Attendance</string>
+    <string name="marks">Mark\nAttendance</string>
+    <string name="gellery">Gellery</string>
+    <string name="notic">Notic</string>
+    <string name="pay">Pay Fee</string>
+    <string name="about">About</string>
+    <string name="home">Home\nWork</string>
+</resources>
